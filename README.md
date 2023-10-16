@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="HTML" height="30" width="40" src="https://icomoon.io/icons4acad3d/4/37.svg">
         <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-        <img align="center" alt="react" height="30" width="40" src="https://icomoon.io/icons4acad3d/4/436.svg" />    
+        <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/kotlin/kotlin-original.svg" />    
 
   
 </div> 
